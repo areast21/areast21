@@ -5,7 +5,7 @@ If your looking for an entry - level CE Engineer with solid foundations in Analo
 ```
 Programming:    Assmebly, C, C++, Embedded C - MSP430, Python3, Verilog HDL
 Tools:          Cadence Virtuoso, Git, GTK Wave, Intel Platform Designer, Intel Quartus, iVerilog,
-                Linux, MATLAB, Modelsim, OpenSTA, systemVerilog - UVM, Xilinx Vivado, YOSYS
+                Linux, MATLAB, Modelsim, OpenSTA, Xilinx Vivado, YOSYS
 Frameworks:     ChipWhisperer, Matplotlib, Selenium, TSMC 180nm PDK
 ```
 
