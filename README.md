@@ -11,7 +11,7 @@ Frameworks:     ChipWhisperer, Matplotlib, Selenium, TSMC 180nm PDK
 
 ### Projects I've worked on lately
 - Multi core MSP430 development to aid advances in Fault Injection Analysis for Embedded Systems
-- [32-bit RISC V softcore implementation and analysis](https://github.com/areast21/single_cycle_RISCV_FPGA)
+- [32-bit pipelined RISC V softcore implementation and analysis](https://github.com/areast21/5-Stage-Pipelined-RISC-V)
 - [Area optimized 4 - staged pipelined AES - 128 Encryption Engine](https://github.com/areast21/area_optmized_pipelined_AES-128_ASIC)
 - [Math hardware accelerator vs Embedded C - MSP430](https://github.com/areast21/matrix_transpose_hardware_accelerator_MSP430)
 - [Recipe Recommender System based on ranked fashion](https://github.com/areast21/recipe_recommender_system_ranked_results)
